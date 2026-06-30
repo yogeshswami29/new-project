@@ -796,6 +796,8 @@
 #     print(i)
 
 # set {}
+
+
 # s={1,2,3}
 # for i in s:
     # print(i)
@@ -855,10 +857,116 @@
 
 # a="imx_yogesh"
 # for i in range(0,len(a),4):
-    # print(a[i:i+3])
+#     print(a[i:i+3])
 
 #for i in range (5):
 #    pass
 #    print("hello")
 
+
+# for i in range(5):
+#     pass
+#     print("hello world")
+
+
+# marks=85
+# if marks<=80:
+#     print("A GRADE")
+
+# elif marks>=65:
+#     print("B GRADE")
+
+# else:
+#    print("FAIL")
+
+# salary=19000
+# if salary>=25000:
+#     print("rich")
+
+# elif salary>=19000:
+#     print("middle class")
+
+# else:
+#     print("poor ")    
+
+# age=int(input("yogesh : "))
+# if age>=19:
+#     if age>=30:
+#         print("healthy")
+#     elif age>=40:
+#         print("medium")
+
+#     else:
+#         print("poor")
+# else:
+#     print("very poor")
+
+# for class_no in range(1,5):
+#     print("outerloop-class",class_no)
+
+#     for student in range (1,3):
+#       print("innerloop-student","student_no")
+
+
+# for i in range(3):
+#     for j in range(3):
+#         print("*",end="")
+#     print()
+
+# for i in range(5):
+#     for i in range(i+1):
+#         print("*",end="")
+#     print()    
+
+# for i in range (5,0,-1):
+#     for i in range (i):
+#         print("*",end="")
+#     print()    
+
+
+# for i in range (10,0,-2):
+#     for i in range (i):
+#         print("*",end="")
+#     print()    
+
+
+# for i in range (10,0,-2):
+#     for i in range (i):
+#         print("#",end="")
+#     print() 
+
+# for i in range (10,0,-1):
+#     for i in range (i):
+#         print("*",end="")
+#     print()
+# row=5
+# for i in range ("rows"):
+#   for j in range ("rows"-i-1):
+#        print(" ",end=" ")
+#   for k in range (2*i+1):
+#       print("*",end="")
+#   print()
+
+# number=1
+# while number<=5:
+#     print(number)
+#     number+=1
+
+# num=1
+# while num<=10:
+#     if num%2==0:
+#         print(num)
+
+# num=2
+# while num <=10:
+#     num+=1
+#     print(num)
+
+
+# num=1
+# sum=0
+# while num <=5:
+#     sum=sum +num
+#     num+=1
+#     print(sum)
 
